@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81d3a799-e7bd-4a98-8635-3adc9112995d" name="Changes" comment="added copy constructor">
+    <list default="true" id="81d3a799-e7bd-4a98-8635-3adc9112995d" name="Changes" comment="finished division function">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Polynomial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polynomial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,16 +30,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Programming/Projects/ProgrammingTechnologies/lab7&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "D:/Programming/Projects/ProgrammingTechnologies/lab7",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,8 +57,16 @@
       <workItem from="1669658477189" duration="1134000" />
       <workItem from="1669800625366" duration="2555000" />
       <workItem from="1669819286537" duration="3099000" />
-      <workItem from="1669878834559" duration="4813000" />
+      <workItem from="1669878834559" duration="7159000" />
     </task>
+    <task id="LOCAL-00001" summary="finished division function">
+      <created>1669883838130</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669883838130</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,7 +86,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added samples on C++" />
     <MESSAGE value="added copy constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="added copy constructor" />
+    <MESSAGE value="finished division function" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished division function" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
