@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81d3a799-e7bd-4a98-8635-3adc9112995d" name="Changes" comment="added samples on C++">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Header.cpp" afterDir="false" />
+    <list default="true" id="81d3a799-e7bd-4a98-8635-3adc9112995d" name="Changes" comment="added copy constructor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Monom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Monom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Polynomial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polynomial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +55,7 @@
       <workItem from="1669658477189" duration="1134000" />
       <workItem from="1669800625366" duration="2555000" />
       <workItem from="1669819286537" duration="3099000" />
+      <workItem from="1669878834559" duration="4813000" />
     </task>
     <servers />
   </component>
@@ -79,7 +75,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added samples on C++" />
-    <option name="LAST_COMMIT_MESSAGE" value="added samples on C++" />
+    <MESSAGE value="added copy constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="added copy constructor" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

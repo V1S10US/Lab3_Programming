@@ -312,8 +312,7 @@ int Division(LIST_FLOAT& list_a, LIST_FLOAT& list_b, LIST_FLOAT& list_c)
             LIST_FLOAT d;
             node<double>* temp_b = buf.head;
             int num = 1;
-            while (temp_b != nullptr and buf.size != 0)
-            {
+            while (temp_b != nullptr and buf.size != 0) {
 
 
                 d.ADD_LAST(-coef_b * coef_c, x_degree_c + x_degree_b, sin_degree_c + sin_degree_b, cos_degree_c + cos_degree_b);
